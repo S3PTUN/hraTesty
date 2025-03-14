@@ -1,1 +1,3 @@
 # hraTesty
+
+Drápela, Hanák

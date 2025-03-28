@@ -1,0 +1,10 @@
+G:\RPR 3\hraTesty\hraTesty\bin\Debug\hraTesty.exe.config
+G:\RPR 3\hraTesty\hraTesty\bin\Debug\hraTesty.exe
+G:\RPR 3\hraTesty\hraTesty\bin\Debug\hraTesty.pdb
+G:\RPR 3\hraTesty\hraTesty\obj\Debug\hraTesty.csproj.AssemblyReference.cache
+G:\RPR 3\hraTesty\hraTesty\obj\Debug\hraTesty.csproj.SuggestedBindingRedirects.cache
+G:\RPR 3\hraTesty\hraTesty\obj\Debug\hraTesty.Properties.Resources.resources
+G:\RPR 3\hraTesty\hraTesty\obj\Debug\hraTesty.csproj.GenerateResource.cache
+G:\RPR 3\hraTesty\hraTesty\obj\Debug\hraTesty.csproj.CoreCompileInputs.cache
+G:\RPR 3\hraTesty\hraTesty\obj\Debug\hraTesty.exe
+G:\RPR 3\hraTesty\hraTesty\obj\Debug\hraTesty.pdb
